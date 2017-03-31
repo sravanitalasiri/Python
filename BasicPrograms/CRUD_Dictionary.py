@@ -1,8 +1,8 @@
 # CRUD on Dictonary
 
 #Creation of Dictonary 
-dict = {'Name': 'Zara', 'Age': 7, 'Class': 'First'}
-
+dict = {'Name': 'Nilesh1','Name': 'Zara', 'Age': 7, 'Class': 'First','Name': 'Sachin1',}
+print(dict);
 print("Dictonary All items ", dict.items())
 
 #Updatiopn
