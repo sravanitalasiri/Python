@@ -1,0 +1,4 @@
+set  http_proxy=http://sdegaonk:besttrainer@123@inpunwbs02-wcg.corp.capgemini.com:8080/
+
+
+set https_proxy=https://sdegaonk:besttrainer@123@inpunwbs02-wcg.corp.capgemini.com:8080/
